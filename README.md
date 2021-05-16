@@ -44,7 +44,7 @@
 Explain
 
 ###### Manufacturing at Lot 1
-> 
+> ![t test_Lot1](https://user-images.githubusercontent.com/77405273/118402324-45210c80-b61e-11eb-956a-8c461de95bd5.png)
 ###### Manufacturing at Lot 1
 > 
 ###### Manufacturing at Lot 1
