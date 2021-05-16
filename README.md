@@ -39,7 +39,7 @@
 ### T-Tests on Suspension Coils
 
 ###### All Manufacturing Lots
-> 
+> ![t test_all](https://user-images.githubusercontent.com/77405273/118402323-45210c80-b61e-11eb-9ebd-b7654520ebf9.png)
 
 Explain
 
