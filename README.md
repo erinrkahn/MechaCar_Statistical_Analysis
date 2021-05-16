@@ -48,7 +48,7 @@ Explain
 ###### Manufacturing at Lot 2
 > ![t test_Lot2](https://user-images.githubusercontent.com/77405273/118402325-45b9a300-b61e-11eb-91c5-5513d38f3821.png)
 ###### Manufacturing at Lot 3
-> 
+> ![t test_Lot3](https://user-images.githubusercontent.com/77405273/118402326-45b9a300-b61e-11eb-80b7-9c9d80d6e4e6.png)
 
 Explain
 
