@@ -58,7 +58,7 @@ Explain
 
 
 
-_ **What is the null hypothesis or alternative hypothesis?**
+- **What is the null hypothesis or alternative hypothesis?**
 
 
 
