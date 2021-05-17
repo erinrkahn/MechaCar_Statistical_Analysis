@@ -14,15 +14,16 @@
 
 - **Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**
 
-
+The variables that provide a non-random amount of variance to the mpg values are 
+vehicle length and ground clearance. 
 
 - **Is the slope of the linear model considered to be zero? Why or why not?**
 
-
+No, the slope is not considered to be zero given the variance of results. 
 
 - **Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
 
-
+This linear model can predict the mpg of the prototype in realtion to vehicle length and ground clearance, but not weight, spoiler angle and AWD, which we would expect to heavily influence mpg. This leads us to believe this linear model in not effective. Additionally, the r-swaured value is 0.68, indicating it is not a good predictor.
 
 ### Summary Statistics on Suspension Coils
 
