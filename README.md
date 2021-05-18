@@ -42,7 +42,7 @@ The design specifications for all manufacturing lots is met at a variance of 62.
 ###### All Manufacturing Lots
 > ![t test_all](https://user-images.githubusercontent.com/77405273/118402323-45210c80-b61e-11eb-9ebd-b7654520ebf9.png)
 
-Explain
+The above t-test was performed on all manufacturing lots in comparison to the population average of 1500 PSI. The given p-value of 0.06 shows that there is not a statistically significant difference between the results of the groups. With a low t-value, this predictor can be dropped from the model. 
 
 ###### Manufacturing at Lot 1
 > ![t test_Lot1](https://user-images.githubusercontent.com/77405273/118402324-45210c80-b61e-11eb-956a-8c461de95bd5.png)
@@ -51,7 +51,7 @@ Explain
 ###### Manufacturing at Lot 3
 > ![t test_Lot3](https://user-images.githubusercontent.com/77405273/118402326-45b9a300-b61e-11eb-80b7-9c9d80d6e4e6.png)
 
-Explain
+Out of the 3 lots, Lot 3 was the only manufacturing faciitly to return a statistically significant t-test results with a p-value of 0.04. Given the low t-value, Lot 3 indicates the predictor can be removed from the model. 
 
 ### Study Design: MechaCar vs Competition
 
