@@ -57,16 +57,16 @@ Out of the 3 lots, Lot 3 was the only manufacturing faciitly to return a statist
 
 - **What metric or metrics are you going to test?**
 
-
+I will test the MechaCar weight and drive train as it relates to fuel effeciency compared to the competition. With fuel effeciancy becoming more important financially and environmentally, these will be key metrics to influence the MechaCar design and production. 
 
 - **What is the null hypothesis or alternative hypothesis?**
 
-
+The null hypothesis is that the MechaCar will exhibit improved fuel effeciency compared the leading competitors based on car wieght and drive train as it relates to city and highway MPG. The alternative hypothesis with be accepted if the following statistaical tests show that the MechaCar does not out perform the cempetition.
 
 - **What statistical test would you use to test the hypothesis? And why?**
 
-
+We will performa linear regression against MechaCar prototypes and a sample set of cometiting cars (with sample sizes large enough to produce statistically significant results). We will import the MPG data for all participating cars and perform a linear regression using car weight and drive train variables. 
 
 - **What data is needed to run the statistical test?**
 
-
+We will need robust mpg, car weight and drive train data for the MechaCar and multiple competitiors. This will require large sample sizes and data across manufacturing lots. 
